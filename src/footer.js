@@ -16,7 +16,7 @@ function Rodape (){
     <div class="footer-social" id="contato">
     <a href="https://www.linkedin.com/in/renan-jansen-760808191" class="social-icons"><i class="fa fa-linkedin"></i></a>
      <a href="https://github.com/renanjansen" class="social-icons"><i class="fa fa-github"></i></a>
-    <a href="https://programadorviking.com.br/" class="social-icons"><i class="fa fa-twitter"></i></a>
+    <a href="https://twitter.com/Renan_jansen" class="social-icons"><i class="fa fa-twitter"></i></a>
     </div>
     </footer>
     </div>
