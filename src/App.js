@@ -1,5 +1,4 @@
 import './App.css';
-import btn from './Btn';
 import Header from './header';
 import Sobremim from './sobreMim';
 import Certificacoes from './certificacoes';
